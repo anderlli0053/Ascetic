@@ -1,2 +1,2 @@
 # Ascetic
-a 2D game
+-- a 2D game
